@@ -12,7 +12,7 @@ To get started with PyPyrus, you can follow these steps:
 
 1. Clone the Repository
 
-git clone https://github.com/your-organization/PyPyrus.git
+git clone https://github.com/bitpyrus/PyPyrus.git
 2. Install Dependencies
 
 pip install -r requirements.txt
@@ -61,7 +61,7 @@ Follow these steps to set up **PyPyrus** on your system:
 
 ### 📥 **1. Clone the Repository**
 
-git clone https://github.com/your-organization/PyPyrus.git
+git clone https://github.com/bitpyrus/PyPyrus.git
 cd PyPyrus
 🔧 2. Install Dependencies
 
