@@ -33,7 +33,7 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 Contact
 For any questions or suggestions, feel free to reach out to us at:
-Email: pyprus@gmail.com
+Email: contact@pypyrus.com
 
 This is a basic structure for your README, and you can adjust it as your project evolves. Would you like to add or modify any sections?
 
